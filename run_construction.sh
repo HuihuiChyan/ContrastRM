@@ -15,7 +15,7 @@ echo "=== 数据生成脚本 ==="
 echo "输入文件: $INPUT_FILE"
 echo "模型名称: $MODEL_NAME"
 
-export API_KEY="sk-agEcX3Su78Bu09c2F49978C6Ba424977B936C8710fAb42E0"
+export API_KEY="PUT YOUR KEY HERE"
 
 # echo ""
 # echo "步骤1: 生成相似指令..."
